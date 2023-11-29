@@ -33,6 +33,5 @@ Projekt SQL v rámci kurzu Datové analýzy
 
 Celkově je vidět, že minimální hodnoty jsou dlouhodobě spojeny s oborem Ubytování, stravování a pohostinství. Maximální hodnoty jsou pak spojené s obory Peněžnictví a pojišťovnictví pro rok 2006 a Informační a komunikační činnosti pro rok 2018. Nezáleží, zda zkoumáme data chleba či mléka, obory zůstávají stejné.
 3. Z dat vyplývá, že cena kategorie potravin rajská jablka červená kulatá klesá nejvíce, neeviduje procentuální nárůt, nýbrž procentuální pokles.
-4. Rostlinný roztíratelný tuk.
-5. Ne.
-6. V některých letech lze sledovat souvislost, v některých ne. Nelze tedy tuto souvislost potvrdit ani vyvrátit.
+4. Ne.
+5. V některých letech lze sledovat souvislost, v některých ne. Nelze tedy tuto souvislost potvrdit ani vyvrátit.
