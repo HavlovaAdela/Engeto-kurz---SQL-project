@@ -42,7 +42,7 @@ JOIN t_adela_havlova_sql_projekt_primary_final pf
 	ON sf.YEAR = pf.YEAR ;
 
 SELECT * FROM t_adela_havlova_sjednoceni_primary_secondary tahsps
-WHERE country='czech republic'
+WHERE country = 'czech republic'
 GROUP BY `YEAR` ;
 
 	
